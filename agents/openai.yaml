@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Gen Script"
+  short_description: "Generate images through the bundled cross-platform script"
+  default_prompt: "Use $image-gen-script to generate a raster image from my prompt."
