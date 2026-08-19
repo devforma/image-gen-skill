@@ -23,7 +23,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-$ApiUrl = "https://www.packyapi.com/v1/images/generations"
+$ApiUrl = "https://cf.api.fan/v1/images/generations"
 $Model = "gpt-image-2"
 
 if (-not $ApiKey) {
