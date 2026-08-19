@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-API_URL="https://www.packyapi.com/v1/images/generations"
+API_URL="https://cf.api.fan/v1/images/generations"
 MODEL="gpt-image-2"
 PROMPT=""
 SIZE="1k"
