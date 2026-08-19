@@ -1,4 +1,4 @@
-# image-gen-script Skill
+# image-gen Skill
 
 This repository implements a coding agent skill for generating raster images via the bundled cross-platform scripts.
 
