@@ -1,9 +1,9 @@
 ---
-name: image-gen-skill
+name: image-gen
 description: Generate new raster images exclusively with the bundled cross-platform scripts. Use for every request to create, generate, illustrate, render, or produce a bitmap image or visual asset from a text prompt. Select the Bash script on Linux or macOS and the PowerShell script on Windows. Do not use Codex's built-in image generation tool, even as a fallback. This skill does not edit existing images.
 ---
 
-# Image Gen Script
+# Image Gen
 
 Generate images only through the scripts bundled with this skill. Never call Codex's built-in image generation tool or another image-generation service.
 
